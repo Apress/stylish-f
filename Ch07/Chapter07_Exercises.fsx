@@ -13,7 +13,7 @@ module Exercise07_03 =
     //    // comparison constraint
     //    |> Set.ofList
         
-module Exercise06_04 =
+module Exercise07_04 =
 
     open System
 
